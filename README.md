@@ -8,7 +8,6 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/FrankSC6482" target="_blank">
+<a href="https://twitter.com/FrankSC6482" target="blank">
         <img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Log%D0%BE.png" alt="Frank6482" width="40" height="30">
 </a>
-

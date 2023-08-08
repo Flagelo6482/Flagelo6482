@@ -15,5 +15,5 @@
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Frank" width="30" height="30">
   </a>
   <a href="https://medium.com/@5784_99824">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="Frank" width="25" height="25">
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="Frank" width="40" height="40">
   </a>

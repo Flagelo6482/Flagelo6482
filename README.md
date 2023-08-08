@@ -4,7 +4,7 @@
 <p>
 - 🌱 I’m currently learning MySQL<br>
 - 😄 Pronouns: Frank<br>
-- ⚡ Fun fact: I like retro music<br>
+- ⚡ Fun fact: I like retro music
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="left">Connect with me:</h3>

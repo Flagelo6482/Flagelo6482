@@ -14,3 +14,6 @@
   <a href="https://www.linkedin.com/in/francisco-sono-820a6526a/">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Frank" width="30" height="30">
   </a>
+  <a href="https://medium.com/@5784_99824">
+    <img src="https://image.pngaaa.com/472/4387472-middle.png" alt="Frank" width="30" height="30">
+  </a>

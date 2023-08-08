@@ -6,7 +6,7 @@
 - 😄 Pronouns: Frank<br>
 - ⚡ Fun fact: I like retro music<br>
 </p>
-
+<br>
 <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/FrankSC6482">
     <img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Log%D0%BE.png" alt="Frank6482" width="40" height="30">
@@ -17,3 +17,5 @@
   <a href="https://medium.com/@5784_99824">
     <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="Frank" width="32" height="32">
   </a>
+<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>

@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Francisco Jesús 👋.</h1>
 </div>
-<hr>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

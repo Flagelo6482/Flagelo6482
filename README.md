@@ -12,5 +12,5 @@
     <img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Log%D0%BE.png" alt="Frank6482" width="40" height="30">
   </a>
   <a href="https://www.linkedin.com/in/francisco-sono-820a6526a/">
-    <img src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" alt="Frank" width="40" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Frank" width="40" height="30">
   </a>

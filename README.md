@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Francisco Jesús 👋.</h1>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="left">About me:</h3>
 <p>
 - 🌱 I’m currently learning MySQL<br>
 - 😄 Pronouns: Frank<br>
@@ -31,3 +33,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3>My Stats: </h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Flagelo6482&theme=github-dark-blue)](https://git.io/streak-stats)
+![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=Flagelo6482&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flagelo6482&size_weight=0.5&count_weight=0.5)
+
+
+
+
+
+
+
+
+

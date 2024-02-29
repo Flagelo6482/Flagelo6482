@@ -1,13 +1,9 @@
-<div align="center">
-  <h1>Hi, I'm Francisco Jesús 👋.</h1>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">About me:</h3>
-<p>
-- 🌱 I’m currently learning MySQL<br>
-- 😄 Pronouns: Frank<br>
-- ⚡ Fun fact: I like retro music
-</p>
+# Hi, I'm Francisco! 👋
+
+
+## 🚀 About Me
+Welcome to my profile! I am a Full Stack Developer student, my passion for programming and web development motivates me to apply these skills in practical projects. More than passion, I like to solve problems and provide solutions as efficiently as possible. My goal is to specialize in AI to be more efficient when creating solutions and thus create programs that can help people on a daily basis 💻🌎.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/FrankSC6482">

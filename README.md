@@ -1,11 +1,14 @@
 # Hi, I'm Francisco! 👋
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🚀 About Me
 Welcome to my profile! I am a Full Stack Developer student, my passion for programming and web development motivates me to apply these skills in practical projects. More than passion, I like to solve problems and provide solutions as efficiently as possible. My goal is to specialize in AI to be more efficient when creating solutions and thus create programs that can help people on a daily basis 💻🌎.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠 Skills
 C(Nativo), Bash, Git, Github, HTML, CSS, Javascript, React, Python, Flask, MySQL, SQL.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...improve as a person
 
